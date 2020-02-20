@@ -1,6 +1,6 @@
 body {
  background-image: url("paper_back.jpg");
- background-color: #cccccc;
+ background-color: #EDD577;
  position: absolute;
 }
 
@@ -36,9 +36,13 @@ p {
 }
 
 img {
-    max-width: 80%;
+    max-width: 50%;
     height: auto;
     border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 .toc {
