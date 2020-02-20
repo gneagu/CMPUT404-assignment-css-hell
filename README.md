@@ -20,5 +20,9 @@ Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
 repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
-
-
+ION
+http://www.gutenberg.org/files/1635/1635-h/1635-h.htm
+The Prince
+http://www.gutenberg.org/files/1232/1232-h/1232-h.htm
+War and Peace
+http://www.gutenberg.org/files/2600/2600-h/2600-h.htm
