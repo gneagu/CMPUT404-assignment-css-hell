@@ -54,3 +54,9 @@ https://www.w3schools.com/html/html_css.asp
 https://previews.123rf.com/images/me67kz/me67kz1701/me67kz170100126/72521404-aged-paper-background-natural-old-paper-texture-for-the-design-.jpg
 -Code referencing HTML header
 https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_style_header
+-Code for making sure sidebar moves with scroll
+https://www.w3schools.com/css/css_positioning.asp
+-Code for adding Sidebar
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_sidenav_fixed
+
+-Code for tryhow_css_style_headerhttps://www.w3schools.com/howto/howto_css_style_header.asp
