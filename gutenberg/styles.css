@@ -3,11 +3,11 @@
 
   NOTE: All html files have a line of code that sets the style to his css file.
   -Code was taken from:
-  https://www.w3schools.com/html/html_css.asp 
+  https://www.w3schools.com/html/html_css.asp
 } */
 
 body {
-    background-image: url("paper_back.jpg");
+    background-image: url("images/paper_back.jpg");
     background-color: #EDD577;
     position: absolute;
 }
@@ -23,7 +23,7 @@ html  {
 pre {
     font-style: italic;
     margin-left: 35%;
-    font-size: 11px;
+    font-size: 13px;
 }
 
 foot {
