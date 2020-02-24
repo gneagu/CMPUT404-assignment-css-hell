@@ -49,9 +49,9 @@
     - [ ] Take 2 screenshots of firefox running all of your pages that
       demonstrates your theme.
     - [ ] Ensure that files are appropriately named and CASE SENSITIVE.
-    - [ ] homepage/good.html should host your good page
-    - [ ] homepage/ugly.html should host your ugly page
 
+    - [X] homepage/good.html should host your good page
+    - [X] homepage/ugly.html should host your ugly page
     - [X] gutenberg/1.html should host your first gutenberg book
     - [X] gutenberg/2.html should host your second gutenberg book
     - [X] gutenberg/3.html should host your third gutenberg book
@@ -59,7 +59,6 @@
 
 
 ** Marking.
-   - 3 for the appropriate skinning the gutenberg stories with new CSS. Including HTML files.
    - 3 marks for the 2 versions of your page. Including HTML files.
    - 1 mark for making the CSS for your promotion pages look as close
      to theoatmeal comic as possible (don't steal his images).
