@@ -1,0 +1,84 @@
+/* All css added in this file is by myself
+  Code that relied on outside help has been cited in ReadMe, and in comments.
+
+  NOTE: All html files have a line of code that sets the style to his css file.
+  -Code was taken from:
+  https://www.w3schools.com/html/html_css.asp 
+} */
+
+body {
+    background-image: url("paper_back.jpg");
+    background-color: #EDD577;
+    position: absolute;
+}
+
+/* This set all text in the html document to the settings below */
+html  {
+    font-family: 'Georgia', serif;
+    font-size: 14px;
+    color: #221111
+}
+
+/* This is the text at the end. */
+pre {
+    font-style: italic;
+    margin-left: 35%;
+    font-size: 11px;
+}
+
+foot {
+    text-align: center;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+p {
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Palatino', serif;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #EDD577;
+}
+
+img {
+    max-width: 50%;
+    height: auto;
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.toc {
+    text-align: center;
+    color: olive
+}
+
+h1 {
+    text-align: center;
+    font-size: 24px;
+}
+
+h2,h3,h4,h5,h6 {
+    text-align: center;
+    font-size: 20px;
+}
+
+p {
+    text-indent: 1em;
+    margin-top: 0.25em;
+    margin-bottom: 0.25em;
+}
+
+p.poem {text-indent: 0%;
+    margin-left: 10%
+    margin-right: 10%;
+    font-size: 18px;
+}
+
+p.center  {
+    text-align: center;
+}

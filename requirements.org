@@ -1,15 +1,3 @@
-* Explore HTML and CSS
-** Description
-
-   You will get experience with existing HTML and CSS and you will
-   make some of your own as well.
-
-** Collaboration
-   - You may consult with others but the submission should be your
-     own source code.
-   - Collaboration but be documents in the README.md file
-   - Any external source code must be referenced and documented in
-     the README.md file
 
 ** Part I
 
@@ -22,29 +10,26 @@
 
    http://www.gutenberg.org/browse/scores/top
 
-   Some of these books are archaic and subscribe to archaic and
-   outdated values. If they offend you, choose something else from
-   the Gutenberg catalogue.
 
 *** Requirements
 
-    - [ ] Theme paragraphs with CSS
-    - [ ] Theme header tags with CSS
-    - [ ] Theme images and images captions with CSS
+    - [X] Theme paragraphs with CSS
+    - [X] Theme header tags with CSS
+    - [X] Theme images and images captions with CSS
     - [x] Change the colour scheme to something aesthetically pleasing
-    - [ ] Apply 1 CSS file to 3 gutenberg documents.
-    - [x] Include all 3 gutenberg documents HTML and assets, with the CSS applied.
+    - [X] Apply 1 CSS file to 3 gutenberg documents.
+    - [ ] Include all 3 gutenberg documents HTML and assets, with the CSS applied.
     - [x] document in your README what modifications you had to make
       to the project gutenberg HTML files.
     - [ ] Take 3 screenshots of firefox running all of your pages that
       demonstrates your theme.
 
-** Part II 
+** Part II
 
    You're going to make your own HTML page and you're going to make 2
    CSS themes for it.
 
-   Emulate the 2nd and 3rd design from this comic: 
+   Emulate the 2nd and 3rd design from this comic:
    http://theoatmeal.com/comics/design_hell
 
    But instead make a 1 webpage about each assignment partner (1 page
@@ -79,41 +64,16 @@
     - [ ] Ensure that files are appropriately named and CASE SENSITIVE.
     - [ ] homepage/good.html should host your good page
     - [ ] homepage/ugly.html should host your ugly page
-    - [ ] gutenberg/1.html should host your first gutenberg book
-    - [ ] gutenberg/2.html should host your second gutenberg book
-    - [ ] gutenberg/3.html should host your third gutenberg book
+    - [X] gutenberg/1.html should host your first gutenberg book
+    - [X] gutenberg/2.html should host your second gutenberg book
+    - [X] gutenberg/3.html should host your third gutenberg book
     - [ ] screenshots good.png, bad.png, gutenberg1.png, gutenberg2.png, gutenberg3.png should be in the root of the project.
 
-** Restrictions
-   - [ ] You may use Python
-   - [ ] Must run in your VM (Firefox and Chromium)
-   - [ ] License your content properly (use a Creative Commons License
-     like CC-BY-ND or CC-BY-SA)
-     - Put your name on it!
-   - [ ] If you borrow CSS, always cite the author and the source
 
-** Recommendations
-
-   - Go look at CSS on the internet. Check the licenses.
-
-   - Look how things are achieved.
-
-** Submission Instructions
-   - Fork my repository from github
-     https://github.com/abramhindle/CMPUT404-assignment-css-hell
-     git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
-   - Push your commits to your fork
-   - In EClass for this assignment submit a URL to the git
-     repository. I would prefer github for the host.
-     - Line 1: the git URL
-     - Line 2: Your CCID
-     - Line 3: Your collaborator's CCID
-
-** Marking
-   - Marks are given only when requirements are met.
+** Marking.
    - 3 for the appropriate skinning the gutenberg stories with new CSS. Including HTML files.
    - 3 marks for the 2 versions of your page. Including HTML files.
    - 1 mark for making the CSS for your promotion pages look as close
      to theoatmeal comic as possible (don't steal his images).
 
-   Marks will be deducted for lack of screenshots and lack of README or wrong file locations. 
+   Marks will be deducted for lack of screenshots and lack of README or wrong file locations.
