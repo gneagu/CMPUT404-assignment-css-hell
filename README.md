@@ -48,8 +48,9 @@ http://www.gutenberg.org/files/2600/2600-h/2600-h.htm
 
 Code Reference
 ==============
--TODO
 -Help with CSS referencing outside css file.
 https://www.w3schools.com/html/html_css.asp
 -Old paper background:
 https://previews.123rf.com/images/me67kz/me67kz1701/me67kz170100126/72521404-aged-paper-background-natural-old-paper-texture-for-the-design-.jpg
+-Code referencing HTML header
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_style_header

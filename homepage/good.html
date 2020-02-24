@@ -11,9 +11,9 @@
   .sidenav {
     height: 100%;
     width: 25%;
-    position: fixed;
+    position: absolute;
     z-index: 1;
-    top: 0;
+    top: 300;
     right: 0;
     background-color: #f1f1f1;
     overflow-x: hidden;
@@ -95,10 +95,24 @@ img {
   height: 25px;
 }
 
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+
 </style>
 
 
 </head>
+
+<!-- Code taken from
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_style_header -->
+<div class="header">
+  <h1>Greg's Site</h1>
+</div>
 <!--Sidebar with important points. -->
 <div class="sidenav">
   <h1 align:"center">Important Points</h1>
