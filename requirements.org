@@ -50,6 +50,8 @@
       demonstrates your theme.
     - [ ] Ensure that files are appropriately named and CASE SENSITIVE.
 
+
+
     - [X] homepage/good.html should host your good page
     - [X] homepage/ugly.html should host your ugly page
     - [X] gutenberg/1.html should host your first gutenberg book
