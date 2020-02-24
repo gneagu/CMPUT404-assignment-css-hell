@@ -13,15 +13,9 @@
 
 ** Part II
 
-   You're going to make your own HTML page and you're going to make 2
-   CSS themes for it.
-
    Emulate the 2nd and 3rd design from this comic:
    http://theoatmeal.com/comics/design_hell
 
-   But instead make a 1 webpage about each assignment partner (1 page
-   if you are doing this solo and 2 webpages that advertises you to
-   employers.
 
    Include at least 3 sections:
 
@@ -51,18 +45,10 @@
     - [ ] Ensure that files are appropriately named and CASE SENSITIVE.
 
 
-
-    - [X] homepage/good.html should host your good page
-    - [X] homepage/ugly.html should host your ugly page
-    - [X] gutenberg/1.html should host your first gutenberg book
-    - [X] gutenberg/2.html should host your second gutenberg book
-    - [X] gutenberg/3.html should host your third gutenberg book
-    - [ ] screenshots good.png, bad.png, gutenberg1.png, gutenberg2.png, gutenberg3.png should be in the root of the project.
+    - [ ] screenshots good.png, bad.pngshould be in the root of the project.
 
 
 ** Marking.
    - 3 marks for the 2 versions of your page. Including HTML files.
    - 1 mark for making the CSS for your promotion pages look as close
      to theoatmeal comic as possible (don't steal his images).
-
-   Marks will be deducted for lack of screenshots and lack of README or wrong file locations.
