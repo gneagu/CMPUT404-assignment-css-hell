@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+<!-- This is where I specify  -->
+<head>
+  <title>Assignment 3</title>
+  <link rel="portait" href="imagess/photo.jpg">
+  <!-- <link rel="stylesheet" href="styles.css"> -->
+<!-- This is where you put in file css -->
+
+<!-- Fixed positioning with
+https://www.w3schools.com/css/css_positioning.asp -->
+<!-- Code for adding Sidebar
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_sidenav_fixed -->
+<style type="text/css">
+  .sidenav {
+    height: 100%;
+    width: 25%;
+    position: absolute;
+    z-index: 1;
+    top: 300;
+    right: 0;
+    background-color: #f2f54c;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+
+  .sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+}
+
+body {
+    background-image: url("images/giphy.gif");
+    background-color: #EDD577;
+    position: absolute;
+}
+h1 {
+  size: 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+    color: #ffffff;
+}
+
+h2 {
+  size: 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  color: #ffffff;
+  text-align: center;
+}
+
+p1 {
+  size: 17px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  display: block;
+  color: ##ffffff;
+}
+
+p2 {
+  size: 14px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  display: block;
+  color: #ffffff;
+}
+
+p3 {
+  size: 17px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  display: block;
+  color: #ffffff;
+  text-align: center;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+  float:right;
+  margin-right: 10px;
+}
+
+.section {
+  padding-top: 10px;
+  padding-left: 10px;
+  height: 250px;
+  margin-right: 25%;
+  display: inline-block;
+}
+
+
+.bottom_banner {
+  z-index:0;
+  background-color: #fa7d16;
+  height: 25px;
+}
+.mid_banner {
+  z-index: 2;
+  background-color: #5b636e;
+  height: 25px;
+}
+
+/* Code for header */
+/* https://www.w3schools.com/howto/howto_css_style_header.asp */
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #ff4ae7;
+  color: black;
+  font-size: 30px;
+}
+
+</style>
+
+
+</head>
+
+<!-- Code taken from
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_style_header -->
+<div class="header">
+  <h1>Greg's Site</h1>
+</div>
+<div class ="bottom_banner"></div>
+<!--Sidebar with important points. -->
+<div class="sidenav">
+  <h1 align:"center">Important Points</h1>
+  <h2>Volunteering</h2>
+  <p1>Over 10 years of valid experience volunteering with diverse organizations.</p1>
+  <h2>Discrete</h2>
+  <p1>Able to handle confidential information, and retain privacy.</p1>
+  <h2>Customer service</h2>
+  <p1>Years of working directly with customers to fulfill their needs.</p1>
+  <h2>Quick learner</h2>
+  <p1>Able to learn quickly and apply knowledge to problems effectively.</p1>
+  <h2>Technological</h2>
+  <p1>Experienced with computational systems, as well as diverse computer applications and systems.</p1>
+</div>
+
+<body>
+  <!-- Who I am Section 1 -->
+  <div class="section" >
+    <img src="images/photo.jpg" alt="portrait">
+    <h1>Who I Am</h1>
+    <p1>Hello. My name is Greg Draghici, and I am a 4th year computing science student at the University of Alberta.<br>
+    Currently, I am studying Web Development as a pupil of Abram Hindle. I hope that one day I might be able to end up
+  at a web development company where I can utilize the skills that I learn in this class, and flourish as a computer programmer.</p1>
+  </div>
+
+  <!-- Professional History, second section -->
+  <div class="section" >
+    <h1>Professional History</h1>
+    <p2>Tech Coach – University of Alberta                                                 (Sept, 2017 – Present)</p1>
+    <ul>
+      <li><p1>Learned many different software and hardware systems (like Arduino, Wix, Sphero, and Edmodo) in order to document these technologies for learning resources.</p1></li>
+      <li><p1>Briefed Education students, and Faculty staff on the usage of educational software and tools through one on one, and mass “Red Chair” sessions.</p1></li>
+      <li><p1>Provided technical support in classrooms, and in professors offices to solve issues, and help clients learn the solutions to the problems that affected them most often.</p1></li>
+      </ul>
+    <p2>Sales Associate – American Eagle Outfitters                                (June , 2017 – Present)</p2>
+    <ul>
+      <li><p1>Worked closely with customers to better understand their needs, and to provide the best customer experience so they could leave with exactly what they needed.</p1></li>
+      <li><p1>Developed strategies to efficiently tackle large tasks (like shipments) with multiple members by breaking down tasks, and separating responsibilities and concerns.</p1></li>
+    </ul>
+  </div>
+
+  <!-- What I Have To Offer, Third Section-->
+  <div class="section" >
+    <h1>What I have to Offer</h1>
+    <ul>
+      <p1>As a current student, my knowledge is broad and covers many topics which makes me both flexible in terms of positions within your organization</p1>
+      <p1>Being a student fresh from University who has also been in an engineerign project, I have been exposed to experimental and new technologies that
+        have also given me insights into new ideas which may be new to your organization. This means that I can bring in a fresh new perspective to the work place
+        and can have a positive impact on your organizations internal environment. This is good for you as an employer</p1>
+  </div>
+  <div class ="bottom_banner">
+    <p1>Who I Am</p1>
+  </div>
+
+</body>
+</html>
